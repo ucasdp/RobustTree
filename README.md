@@ -3,7 +3,7 @@ An adaptive robust PCA algorithm for embedded tree structure recovery from noisy
 
 ## Usage
 
-To use RPCAtree, please set `matlab` working directory to RPCAtree after cloning this repository. Then open source code `carryout_RPCAtree.m` to execute the commands line by line as following.
+To use RPCAtree, please set `matlab` working directory to `RPCAtree-master` after cloning this repository. Then open source code `carryout_RPCAtree.m` to execute the commands line by line as following.
 
 * Input of RPCAtree
 
