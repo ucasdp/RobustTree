@@ -9,8 +9,12 @@ The input data is single-cell RNA sequencing data or single-cell DNA sequencing 
 * Output of RPCAtree
 
 A1: the recovered low-rank matrix;
+
 E1: the sparse matrix;
+
 C: the cluster center;
+
 R: right stochastic matrix;
+
 B: the adjacency matrix of the cluster centers.
 
