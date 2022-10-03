@@ -1,7 +1,7 @@
 clear
 
 %% load data
-load  /Users/chenziwei/Downloads/PAMI2015-code/toy/tree_300.mat
+load tree_300.mat
 % Normalization
 XX = (X-min(min(X)))./(max(max(X))-min(min(X)));
 D = XX;
